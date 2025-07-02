@@ -31,6 +31,7 @@ Você pode utilizar as tecnologias que preferir, mas sugerimos:
 
 ## ✅ Requisitos
 
+- Fazer um fork deste repositório antes de iniciar o desenvolvimento
 - Utilizar Git para versionamento (incluindo histórico de commits)
 - Criar um `README.md` explicando como rodar o projeto
 - Boa organização de pastas e código
@@ -41,7 +42,7 @@ Você pode utilizar as tecnologias que preferir, mas sugerimos:
 
 ## 📦 Entrega
 
-- Envie o link do repositório público no GitHub para o e-mail: [henrique@tarefy.com]
+- Envie o link do repositório público no GitHub para o e-mail: [henrique@tarefy.com] e [douglas@tarefy.com]
 - prazo de entrega é de até 5 dias corridos após o recebimento deste desafio
 - layout é livre: sinta-se à vontade para usar sua criatividade ou alguma biblioteca de UI que preferir.
 
