@@ -41,8 +41,9 @@ Você pode utilizar as tecnologias que preferir, mas sugerimos:
 
 ## 📦 Entrega
 
-- Envie o link do repositório **público** no GitHub
-- O prazo de entrega é de até **5 dias corridos** após o recebimento deste desafio
+- Envie o link do repositório público no GitHub para o e-mail: [henrique@tarefy.com]
+- prazo de entrega é de até 5 dias corridos após o recebimento deste desafio
+- layout é livre: sinta-se à vontade para usar sua criatividade ou alguma biblioteca de UI que preferir.
 
 ---
 
