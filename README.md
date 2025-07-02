@@ -21,7 +21,7 @@ Você pode utilizar as tecnologias que preferir, mas sugerimos:
 
 - **Front-end**: React, Vue ou similar
 - **Back-end**: Node.js com Express (ou outra linguagem/framework de sua preferência)
-- **Banco de dados**: MongoDB, PostgreSQL ou SQLite
+- **Banco de dados**: Mysql
 - **Extras** (opcional):
   - Autenticação de usuários
   - Testes automatizados
