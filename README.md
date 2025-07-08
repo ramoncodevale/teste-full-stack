@@ -19,9 +19,7 @@ Este é um projeto full stack desenvolvido como parte de um desafio técnico. Tr
 
 ### 🛠️ Extras
 - Autenticação com **JWT**
-- Deploy com:
-  - [Vercel](https://vercel.com/) (front-end)
- 
+
 ---
 
 ## 📦 Como Rodar o Projeto Localmente
