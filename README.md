@@ -1,60 +1,56 @@
-# 🚀 Desafio Técnico - Desenvolvedor(a) Full Stack
+# 📝 Gerenciador de Tarefas (To-do List)
 
-Bem-vindo(a)! Este repositório contém o desafio técnico para a vaga de **Desenvolvedor(a) Full Stack**. O objetivo é avaliar suas habilidades em desenvolvimento web, tanto no front-end quanto no back-end, além da capacidade de estruturar um projeto funcional e bem organizado.
-
----
-
-## 🎯 Objetivo do Projeto
-
-Crie uma aplicação web completa para **gerenciamento de tarefas (to-do list)**, contendo:
-
-- Cadastro, edição e exclusão de tarefas
-- Marcar tarefas como concluídas
-- Listagem de tarefas pendentes e concluídas
-- Interface responsiva
+Este é um projeto full stack desenvolvido como parte de um desafio técnico. Trata-se de um gerenciador de tarefas que permite **cadastrar, editar, excluir e marcar tarefas como concluídas**. A aplicação possui **interface responsiva**, autenticação de usuários e integração com banco de dados **MySQL**.
 
 ---
 
-## 🧰 Tecnologias sugeridas
+## 🚀 Tecnologias Utilizadas
 
-Você pode utilizar as tecnologias que preferir, mas sugerimos:
+### 🖥️ Front-end
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
 
-- **Front-end**: React, Vue ou similar
-- **Back-end**: Node.js com Express (ou outra linguagem/framework de sua preferência)
-- **Banco de dados**: Mysql
-- **Extras** (opcional):
-  - Autenticação de usuários
-  - Testes automatizados
-  - Deploy em ambiente gratuito (Vercel, Netlify, Render, etc.)
+### 🔧 Back-end
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [MySQL](https://www.mysql.com/)
 
+### 🛠️ Extras
+- Autenticação com **JWT**
+- Deploy com:
+  - [Vercel](https://vercel.com/) (front-end)
+ 
 ---
 
-## ✅ Requisitos
+## 📦 Como Rodar o Projeto Localmente
 
-- Fazer um fork deste repositório antes de iniciar o desenvolvimento
-- Utilizar Git para versionamento (incluindo histórico de commits)
-- Criar um `README.md` explicando como rodar o projeto
-- Boa organização de pastas e código
-- Seguir boas práticas de desenvolvimento
-- (Opcional) Link do projeto publicado online
+### ✅ Pré-requisitos
+- [Node.js](https://nodejs.org/) instalado
+- [MySQL](https://www.mysql.com/) rodando localmente
+- (Opcional) [Docker](https://www.docker.com/) instalado para facilitar a execução
 
----
+### 🔧 Passos para instalação e execução
 
-## 📦 Entrega
-
-- Envie o link do repositório público no GitHub para o e-mail: [henrique@tarefy.com] e [douglas@tarefy.com]
-- prazo de entrega é de até 5 dias corridos após o recebimento deste desafio
-- layout é livre: sinta-se à vontade para usar sua criatividade ou alguma biblioteca de UI que preferir.
-
----
-
-## 📘 Como rodar o projeto
-
-Inclua aqui no seu repositório instruções claras para rodar o front-end e o back-end localmente, por exemplo:
+#### 1. Clone o repositório
 
 ```bash
-# Instalar dependências
-npm install
+git clone https://github.com/ramoncodevale/teste-full-stack.git
+cd teste-full-stack
 
-# Rodar aplicação
+cd backend
+npm install
 npm run dev
+
+O backend ficará disponível em: http://localhost:3001
+
+cd frontend
+npm install
+npm run dev
+
+O frontend ficará disponível em: http://localhost:5173
+
+
+
+
